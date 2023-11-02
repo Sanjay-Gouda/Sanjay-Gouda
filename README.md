@@ -6,9 +6,13 @@
 I'm Sanjay Kumar, a passionate Frontend Developer with 1.5 years of hands-on experience. My tech stack includes HTML, CSS, JavaScript, React.js, Next.js, and TypeScript. I love building user-friendly interfaces and crafting seamless web experiences. When I'm not coding, you can find me exploring new ways to improve web applications or diving into the latest web development trends. Let's connect and build awesome projects together! 🚀
 
 
-Skills: HTML / CSS / JAVASCRIPT / TYPESCRIPT /REACT JS/ NEXT JS/FIREBASE
 
-- 🔭 I’m currently working on this page. 
+## Skills and Experince
+* ⚛️ React JS | NEXT JS | Redux | 
+* 👨‍💻 HTML /CSS /JAVASCRIPT
+* 🤞 Typescript
+* 📝 Figma UI desing
+* 📅 Firebase
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanjay-Gouda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sanjaykumar-gouda-141b271a4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Sanjay_Gouda_13)  
