@@ -3,7 +3,7 @@
 
 #### Frontend Engineer
 
-I'm Sanjay Kumar, a passionate Frontend Developer with 1.5 years of hands-on experience. My tech stack includes HTML, CSS, JavaScript, React.js, Next.js, and TypeScript. I love building user-friendly interfaces and crafting seamless web experiences. When I'm not coding, you can find me exploring new ways to improve web applications or diving into the latest web development trends. Let's connect and build awesome projects together! 🚀
+A passionate Frontend Developer with 1.5 years of hands-on experience. My tech stack includes HTML, CSS, JavaScript, React.js, Next.js, and TypeScript. I love building user-friendly interfaces and crafting seamless web experiences. When I'm not coding, you can find me exploring new ways to improve web applications or diving into the latest web development trends. Let's connect and build awesome projects together! 🚀
 
 
 
