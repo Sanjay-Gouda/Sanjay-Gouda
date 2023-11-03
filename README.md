@@ -12,7 +12,7 @@ A passionate Frontend Developer with 1.5 years of hands-on experience. My tech s
 * 👨‍💻 HTML /CSS /JAVASCRIPT
 * 🖌️ Tailwind | MUI |Styled Components |Bootstrap | Chakra UI
 * 🤞 Typescript
-* 📝 Figma UI desing
+* 📝 Figma UI design
 * 📅 Firebase
 * 🔗 Web 3.0
 
